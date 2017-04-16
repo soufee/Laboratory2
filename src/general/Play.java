@@ -50,7 +50,7 @@ public class Play {
 if (line.equalsIgnoreCase(ans))
 {
     score+=question.getScore();
-    System.out.println("Это правильный ответ. Ваши очки - "+score+" Следующий вопрос:");
+    System.out.println("Это правильный ответ. Ваши очки - "+score+" Следующий вопрос: ");
     startGame();
 } else
     {
