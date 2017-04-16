@@ -16,8 +16,9 @@ import java.util.jar.JarEntry;
 public class Main {
     public static void main(String[] args) {
         DBParser dbParser = new DBParser();
-//dbParser.cleanGamers();
-dbParser.fromXMLtoDBGamer();
+
+
+
 
     }
 }
