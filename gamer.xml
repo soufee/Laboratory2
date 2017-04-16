@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Gamers>
+    <gamers>
+        <niackname>ashamaz</niackname>
+        <score>0</score>
+        <password>123</password>
+    </gamers>
+    <gamers>
+        <niackname>Aslan</niackname>
+        <score>0</score>
+        <password>963</password>
+    </gamers>
+</Gamers>

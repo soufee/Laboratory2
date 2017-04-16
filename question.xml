@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Questions>
+    <questions>
+        <quest>БТНВиРИП</quest>
+        <answer>Без труда не вытащишь и рыбку из пруда</answer>
+        <score>3</score>
+    </questions>
+    <questions>
+        <quest>ДВПЧ</quest>
+        <answer>Делу время, потехе час</answer>
+        <score>4</score>
+    </questions>
+    <questions>
+        <quest>СКБНП</quest>
+        <answer>Старый конь борозды не портит</answer>
+        <score>6</score>
+    </questions>
+    <questions>
+        <quest>ЛХкО</quest>
+        <answer>Ложка хороша к обеду</answer>
+        <score>5</score>
+    </questions>
+    <questions>
+        <quest>ОСиОТНЗ</quest>
+        <answer>От сумы и от тюрьмы не зарекайся</answer>
+        <score>10</score>
+    </questions>
+</Questions>
